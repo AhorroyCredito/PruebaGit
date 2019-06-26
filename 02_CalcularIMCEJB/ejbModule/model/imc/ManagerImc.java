@@ -20,7 +20,7 @@ public class ManagerImc {
     	}else if(imc >18.5 & imc <= 24.9) {
     		return "Normal";
     	}else{
-    		return "Robusto";
+    		return "Robusto y ";
     	}
     	
     }
